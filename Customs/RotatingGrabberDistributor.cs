@@ -28,7 +28,7 @@ namespace KitchenAutomationPlus.Customs
 
             new CConveyPushItemsReversible()
             {
-                Delay = 2f,
+                Delay = 0.33f,
                 Push = true,
                 Grab = true,
                 GrabSpecificType = false,

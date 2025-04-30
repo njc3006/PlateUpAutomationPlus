@@ -23,7 +23,7 @@ namespace KitchenAutomationPlus.Customs
 
             new CConveyPushItems()
             {
-                Delay = 1f,
+                Delay = 0.33f,
                 Push = true,
                 Grab = true,
                 GrabSpecificType = true
